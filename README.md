@@ -117,13 +117,17 @@ DELETE /customers/{id}
 
 - Remove um cliente da base de dados.
 
+---
+
+## Imagens do projeto
+
+![image](https://github.com/user-attachments/assets/10017978-801b-4f2b-a337-e982b7968a68)
+![image](https://github.com/user-attachments/assets/39c5bc56-7dc0-4a16-8c21-40b4790b9ebb)
+
 ## Melhorias Futuras
 
 - Autenticação de usuários (Laravel Breeze ou Jetstream)
 - Exportação de clientes para CSV/PDF
 - Filtros e busca avançada
 
----
-
 Desenvolvido para fins de aprendizado. 🚀
-
